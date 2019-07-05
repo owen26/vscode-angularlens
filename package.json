@@ -2,7 +2,7 @@
   "name": "vscode-angularlens",
   "displayName": "AngularLens",
   "description": "A series of useful utility code lenses for Angular developers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "xinan",
   "author": "xinan",
   "engines": {
