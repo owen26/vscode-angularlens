@@ -1,9 +1,8 @@
-# Change Log
+# AngularLens Change Log
 
-All notable changes to the "angular-component-usage-finder" extension will be documented in this file.
+## 1.0.0
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+This is the initial release for AngularLens!
 
-## [Unreleased]
-
-- Initial release
+- Added reference search provider for Angular component selector
+- Added code lens to show current Angular component usages in all your project templates
